@@ -1,4 +1,18 @@
-# leetcode-solutions
+# LeetCode Solutions
+
+Solutions to LeetCode problems organized by difficulty and problem number.
+
+## Progress Overview
+
+| Difficulty | Solved |
+| :--- | :--- |
+| 🟢 **Easy** | 2 |
+| 🟡 **Medium** | 0 |
+| 🔴 **Hard** | 0 |
+
+---
+
+## Problem List
 
 | # | Title | Solution | Difficulty | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
