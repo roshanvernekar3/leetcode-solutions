@@ -6,7 +6,7 @@ Solutions to LeetCode problems organized by difficulty and problem number.
 
 | Difficulty    | Solved |
 | :------------ | :----- |
-| 🟢 **Easy**   | 6      |
+| 🟢 **Easy**   | 8      |
 | 🟡 **Medium** | 0      |
 | 🔴 **Hard**   | 0      |
 
@@ -14,6 +14,8 @@ Solutions to LeetCode problems organized by difficulty and problem number.
 
 | # | Problem |
 | :--- | :--- |
+| 1 | [Two Sum](./Easy/0001-Two-Sum/) |
+| 9 | [Palindrome Number](./Easy/0009-Palindrome-Number/) |
 | 26 | [Remove Duplicates from Sorted Array](./Easy/0026-remove-duplicates-from-sorted-array/) |
 | 189 | [Rotate Array](./Easy/0189-rotate-array/) |
 | 268 | [Missing Number](./Easy/0268-missing-number/) |
